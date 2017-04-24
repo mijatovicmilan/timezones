@@ -1,0 +1,12 @@
+{
+    "name": "mijatovicmilan/timezones",
+    "description": "Demo-package to show time",
+    "authors": [
+        {
+            "name": "Mijatovic Milan",
+            "email": "mijatovicmilan7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
