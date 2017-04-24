@@ -7,7 +7,7 @@
       "email": "mijatovicmilan7@gmail.com"
     }
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "require": {
     "illuminate/support": "~5.0"
   },
