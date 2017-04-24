@@ -1,0 +1,22 @@
+{
+  "name": "mijatovicmilan/timezones",
+  "description": "Demo-package to show time",
+  "authors": [
+    {
+      "name": "Mijatovic Milan",
+      "email": "mijatovicmilan7@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "illuminate/support": "~5.0"
+  },
+  "autoload": {
+    "classmap": [
+      "src"
+    ],
+    "psr-4": {
+      "Mijatovic\\Timezones\\": "mijatovicmilan/timezones/src/"
+    }
+  }
+}
